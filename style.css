@@ -1,0 +1,26 @@
+html {
+  background-color: #1d1c1a;
+  font-family: 'Roboto';
+  font-size: 2vw;
+}
+h1 {
+  color: #fdfcfa;
+  padding-left: -1em;
+}
+li {
+  font-size: 2vw;
+  list-style-type: none;
+}
+a {
+  color: #fdfcfa;
+  text-decoration: none;
+}
+a:hover {
+  color: #6699ff;
+}
+img {
+  width: 250px;
+  height: 250px;
+  float: left;
+  margin: 10px;
+}
